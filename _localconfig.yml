@@ -1,0 +1,97 @@
+# ----
+# Site
+
+title: Papopower
+url: "http://127.0.0.1:4000/"
+#url: "https://speedsizeinfuence.appspot.com"
+baseurl: ""
+hero_image: https://lh3.googleusercontent.com/-sFRls0K2Btg/WqKnMNsDxnI/AAAAAAAAVf4/jkAmmGLz38oF1yppNki8Zl4x_xIi1EZxQCJoC/s0-rj-l70-e90/bg-masthead.jpg
+google_analytics_key:
+google_maps_javascript_api_key:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Practical Marketing Driven by Real World data without the Mumbo Jumbo
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+social:
+  name: Papopower
+  links:
+    - https://dindinet.github.io/papo-power/
+
+# -----
+# Build
+permalink: pretty
+
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-archives
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  staff_members:
+    _hide_content: true
+  posts:
+    output: true
+    permalink: /:title/
+    
+#paginate: 10
+#paginate_path: "/blog/:num/"
+
+jekyll-archives:
+  enabled: ['categories','tags']
+  layout: 'archive'
+  permalinks:
+    #year: '/:year/'
+    #month: '/:year/:month/'
+    #day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "contact-success.html"
+    values:
+      layout: "page"
+
+# -----------
+# CloudCannon
+_editable_regions:
+  image:
+    url_src: true
+    
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - Email
+  - RSS
+
+_comments:
+  description: Text shown when sharing on social media
+  blurb: Short bio or description of this person

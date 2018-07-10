@@ -1,0 +1,69 @@
+Found
+Focused
+Fast
+
+Easy to Update
+Easy to Maintain
+Easy to extend
+
+Protected
+Always available
+
+
+
+
+1.How your business is unique
+=============================
+Answer the question "Who are you?" as interestingly and compellingly (and honestly) as possible. This includes writing management bios that mention your expertise, years of experience and any unique attributes or details that may set you apart from others.
+
+You need to answer, Bredin says, "What is unique about your business? Why should I buy from you?" This is missing from many business sites because the owners haven't done the strategic thinking necessary to figure that out, she says.
+
+Be concise, too, Cutler adds. "You don't need to write a novel."
+
+2. A clear sense of what your company offers
+============================================
+"It's incredible how many sites you visit and you're not sure what the company offers," Bredin says. Make it a priority on your home page to provide at least general information about your products and/or services, with links to specifics on a Products page.
+
+Many service-oriented companies, Cutler says, are concerned about divulging too much information about their offerings, for competitive reasons. Some also feel that consumers will have no reason to contact them by phone if they get all they need from the website. "There's a balance that needs to be reached" in giving the potential customer enough info to make a buying decision, she says. More often than not, consumers will not contact a company for the missing product information--they'll just move on to a competitor.
+
+3.Contact information, including a phone number and physical location
+=====================================================================
+This may seem like a no-brainer, but many companies are purposely vague about their location. Some prefer to do all of their business online and see no need to publish an address or phone number. Others are home-based or they worry that giving a street address or hometown will somehow hinder them.
+
+"This is a must, and it's one small way of building credibility and trust" with the consumer, says Wayne Porter, co-founder of ReveNews, an online marketing publication, and former senior director of research at FaceTime, a business security solutions provider. "A phone number, a street address and even pictures go a long way toward building credibility."
+
+Showing a physical location, even one that no one will ever visit, comforts a customer that your business is real and legitimate, Bredin says. Provide a phone number that maps to that location, rather than just an 800 number, she advises.
+
+4.Third-party validation
+========================
+This means customer testimonials, client lists, case studies, awards and recognition you've received, positive news clippings and the like. Potential customers indeed want to know who you do business with, and what current customers have to say about their experiences. Such items "forge the underpinnings of trust," Porter says.
+
+Client lists are especially important if your customers are businesses. "If you've got some big-name customers, people like to see that," Cutler says. But make sure you get approval from those you list as clients, she adds.
+
+Porter adds that having a presence on social networking sites and blogs, especially those serving your industry, is an increasingly popular form of validation among customers. "Social networking now has strong validation," he says.
+
+5.Secure Socket Layer (SSL)
+===========================
+SSL is an encryption system that helps protect the privacy of data exchanged between a customer and a website. If you have an e-commerce site that takes credit card information, customers want to know that their sensitive data is encrypted. Get SSL if you don't have it. If you do, let customers know that and about any other safeguards you proactively take.
+
+6.Ease of use and navigation
+============================
+If people can't find it, they can't buy it. Porter advises keeping sites "crisp, clean, and easy to navigate," but also for site owners to study traffic and usage patterns to adjust their sites based on what visitors are coming for. "The ability to search a site is very important," he says. "Businesses should study their search data to see if there are trends and what to make front and center."
+
+7. Clear guidance on your processes
+===================================
+Let customers know, step-by-step, important things such as how to order--and where to go and what to do should something happen out of the ordinary. Customers also want to know your shipping costs and procedures and how they can get status reports. (Don't list your shipping costs and procedures after people enter their credit card information, Cutler urges.) Last but not least, customers want to know how you handle complaints and problems, return procedures and whether you have a money-back guarantee.
+
+Your processes can be described in a FAQ (frequently asked questions) page or separate "how to order," shipping and/or confirmation pages. Include a way customers can contact your business or fulfillment agency for more information.
+
+8. An ability to give feedback
+==============================
+Encourage feedback about your products and services, your ordering process and your site in general, by providing a feedback mechanism--either feedback forms or e-mail links. Not every small business prefers to offer this, in some cases because of resource constraints. "You definitely want to look at how and what feedback to gather, and you should consider offering an incentive or perk [to the customer]," Porter says. "You might get some good stories to feature on your site or in your blog."
+
+9. Clear calls to action
+========================
+Customers want signs or buttons in order to act, be it "Buy now" or "Sign up for our newsletter" or "Click here for more information." But many small-business sites don't provide calls to action or they don't present them clearly enough, Cutler says. "This is one of the biggest things that nags me," she says. "If you have a captive audience, this is the time to grab them!"
+
+10. Special offers and personalization
+=====================================
+By personalizing a sale with a special offer, incentive or coupon, small businesses can gain an edge on their bigger counterparts, Porter says. "This can be as simple as a hand-written thank-you note, free gift wrap services or a special offer for repeat business.

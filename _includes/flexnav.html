@@ -1,0 +1,15 @@
+<header>
+        <nav class="navbar navDemo" id="navDemo">
+          <a href="#" class="toggle"  onclick="menus()"><i class="fa fa-reorder"></i></a>
+          <a href="#" class="brand"><img src="{{ site.url }}/img/datalogo.gif" alt="Keyword Tool" width="auto" height="36"> Speed Size Influence</a>
+          <!--<div class="left">
+            <a href="#" class="link">Link 1</a>
+            
+          </div> -->
+          <div class="right">
+            {% for nav in site.data.nav %}
+            <a href="{{ site.url }}{{site.baseurl}}{{ nav.link }}" class="link">{{ nav.name }}</a>
+            {% endfor %}
+          </div>
+        </nav>
+      </header>

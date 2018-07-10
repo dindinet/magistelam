@@ -1,0 +1,23 @@
+{% if page.hero_image  %}
+{% assign the_hero_image = page.hero_image %}
+{% else %}
+{% assign the_hero_image = site.hero_image %}
+{% endif %}
+
+<div class="hero-box" style="xbackground-image: url({{the_hero_image}});">
+    <!-- if home page-->
+    {% if page.url == "/index.html" %}
+    <div class="hero-text">
+      <h1 class="w3-xxlarge">Take the Guesswork Out Of Online Marketing</h1>
+      <span class="w3-xlarge">Focus on the visitors who are ready to engage</span><br>
+      <input type="email" class="form-control form-control-lg" placeholder="Enter your email..." />
+      <button type="submit" class="btn btn-block btn-lg btn-primary editable">I'm in.</button>
+    </div>
+    {% else %}
+    <div class="hero-text">
+    <h1 class="w3-xxlarge">{{page.title}}</h1>
+    {% if page.sub-heading  %} <span class="w3-xlarge">{{ page.sub-heading }}</span><br> {% endif %}
+    </div>
+    {% endif %}
+    <!-- endif home page-->
+  </div>

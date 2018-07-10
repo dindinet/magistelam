@@ -1,0 +1,82 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+
+default_expiration: "1m"
+
+handlers:
+  - url: /favicon.ico
+    static_files: static/favicon.ico
+    upload: static/favicon.ico
+    expiration: "300d"
+  
+  - url: /vendor/(.*)
+    static_files: static/vendor/\1
+    upload: static/vendor/(.*)
+    expiration: "30d"
+
+  - url: /vendor/(.*\.js\.map)
+    static_files: static/vendor/\1\.js.map
+    upload: static/vendor/(.*\.js\.map)
+
+  - url: /css/(.*\.css)
+    static_files: static/css/\1
+    upload: static/css/(.*\.css)
+    expiration: "30d"
+    http_headers:
+      Vary: Accept-Encoding
+
+  - url: /js/(.*\.(js|min\.js))
+    static_files: static/js/\1
+    upload: static/js/(.*\.(js|min\.js))
+    expiration: "30d"
+    http_headers:
+      Vary: Accept-Encoding
+      Access-Control-Allow-Origin: "*" 
+      
+  - url: /fonts/(.*\.(woff|woff2|ttf|eot|svg))
+    static_files: static/fonts/\1
+    upload: static/fonts/(.*\.(woff|woff2|ttf|eot|svg))
+    expiration: "30d"
+    http_headers:
+      Vary: Accept-Encoding
+      Access-Control-Allow-Origin: "*"
+
+  - url: /vendor/(.*\.(js|css|min\.js|min\.css|woff|woff2|ttf|eot|svg))
+    static_files: static/vendor/\1\.(js|css|min\.js|min\.css|woff|woff2|ttf|eot|svg)
+    upload: static/vendor/(.*\.(js|css|min\.js|min\.css|woff|woff2|ttf|eot|svg))
+    expiration: "30d"
+    http_headers:
+      Vary: Accept-Encoding
+      Access-Control-Allow-Origin: "*"
+
+  - url: /(.*\.(bmp|gif|ico|jpeg|jpg|png|svg|webp))
+    static_files: static/\1
+    upload: static/(.*\.(bmp|gif|ico|jpeg|jpg|png|svg|webp))
+    
+  - url: /
+    static_files: static/index.html
+    upload: static/index.html
+    http_headers:
+      Content-Type: text/html; charset=UTF-8
+
+  - url: /(.+)/
+    static_files: static/\1/index.html
+    upload: static/(.+)/index.html
+    http_headers:
+      Content-Type: text/html; charset=UTF-8    
+
+  - url: /(.+)
+    static_files: static/\1/index.html
+    upload: static/(.+)/index.html
+    http_headers:
+      Content-Type: text/html; charset=UTF-8
+
+  - url: /(.*)
+    static_files: static/\1/index.html
+    upload: static/(.*)
+    http_headers:
+      Content-Type: text/html; charset=UTF-8    
+
+
+    

@@ -1,0 +1,17 @@
+---
+title: We help your company grow by improving your Internet Marketing
+heading: Internet Marketing Fuel
+sub-heading: 
+description: Only by steady continuous improvement can you grow and sustain your business
+layout: page
+hero_image: https://lh3.googleusercontent.com/TrYHkgXqRJV48tHnvBJI_tvT6ujbCpOv8G52SxH-tt1EJbXEzu3a9bP-Mdg-3hNvW-30g5fYH8myADQdnw=w1200-h500-c-rj-e30
+---
+
+<h2> Articles to help you grow your business today.</h2>
+
+{% for post in site.posts %}	
+
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong>  published in: {% for cat in post.categories %} <a href="/category/{{ cat | downcase }}/">{{ cat }} {% unless forloop.last %}, {% endunless %}</a>{% endfor %}  </small></p>
+
+{% endfor %}
