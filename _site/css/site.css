@@ -244,7 +244,8 @@ body, html {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
     
 }
-body{xmargin-top:74px;}
+body{margin-top:74px;}
+#main{margin: 0px auto; width: 600px;}
 .w3-bar{color: var(--alttextcolor)!important;}
 .w3-xxlarge{font-size: 2em!important;}
 .w3-xlarge{font-size: 1.4em!important;}

@@ -1,8 +1,8 @@
 ---
 date:
-categories:
 author_staff_member:
 title: 
+permalink:
 heading: 
 sub-heading: 
 description: 
