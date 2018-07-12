@@ -1,6 +1,6 @@
 ---
 title: Our Approach to improving your Internet Presence - The Process
-permalink: /services/
+permalink: /burgers/
 description: >-
   Only by steady continuous improvement can you grow and sustain your
   organisation
