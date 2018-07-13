@@ -11,7 +11,17 @@ hero_image: >-
 
 ## Core Services
 
+My core competence is planning, building and launching websites that improve the marketing efforts of my clients.
+
+The most important stage of the project is identifying the audience. If great care is not taken at this stage the risk of failure is very high.
+
+Building a website that does not engage the correct audience is much more common than people think. In my opinion the main reason for this high failure rate is the process of implementation that many web development teams use. The more bells and whistles that can be added to the design the more they can charge the client. Clients love to have the latest bells and whistles to be proud of. Everyone wants the perfect website. Far too much of the important budget is thrown away on bells and whistles. The more bells and whistles the longer it will be before the project meets reality.&nbsp; That reality is the launch day. How will the audience react. Are they using the bells and whistles? Are they being converted into subscribers/doners/customers?
+
+I think this is a high risk strategy. I prefer my clients to be less frivolous with their budget. I advice that the sooner they launch with a minimum viable website the sooner they can start measuring and reacting to real world feedback. By testing and making step by step improvements web site owners see step by step improvements and they have budget in reserve to pay for informed improvements.
+
 ### The Essentials of a successful marketing website
+
+Audience Identification - Relevant Content - feedback/measurement - promotion
 
 * Audience identification and research
 * website building
