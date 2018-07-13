@@ -10,7 +10,7 @@ hero_image: https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELd
 {: #core-services}
 ### The Essentials of a successful marketing website
 - Audience identification and research
-- website building
+- website planning and development
 - Micro Site development (used for special campaigns or events)
 - Content management system(CMS) development and/or modification
 - Web Site Analytics setup
