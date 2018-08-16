@@ -20,21 +20,6 @@ Building a website that does not engage the correct audience is much more common
 I think this is a high risk strategy. I prefer my clients to be less frivolous with their budget. I advice that the sooner they launch with a minimum viable website the sooner they can start measuring and reacting to real world feedback. By testing and making step by step improvements web site owners see step by step improvements and they have budget in reserve to pay for informed improvements.
 
 ### The Essentials of a successful marketing website
-<<<<<<< HEAD
-- Audience identification and research
-- website planning and development
-- Micro Site development (used for special campaigns or events)
-- Content management system(CMS) development and/or modification
-- Web Site Analytics setup
-- Content Planning for Content Marketing(the real SEO)
-- Visitor session recording and analysis
-- Google Tag manager
-- A/B testing and marketing experiments
-- Landing Pages
-- Email Marketing Integration
-- Social Media Integration
-- 3rd party service integration
-=======
 
 Audience Identification - Relevant Content - feedback/measurement - promotion
 
@@ -51,7 +36,6 @@ Audience Identification - Relevant Content - feedback/measurement - promotion
 * Email Marketing Integration
 * Social Media Integration
 * 3rd party service integration
->>>>>>> f15c2d5887f70082a3c44ee3b51b38cbb2a26765
 
 ## Ongoing Services
 

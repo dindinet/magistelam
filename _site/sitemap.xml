@@ -24,6 +24,9 @@
 <loc>http://localhost:4000/articles/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/cloud-computing/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/green-index/</loc>
 </url>
 <url>
@@ -42,10 +45,16 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/services/</loc>
+<loc>http://localhost:4000/office-productivity/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/old-index/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/services/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/websites/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/optimisation/</loc>

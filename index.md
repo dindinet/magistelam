@@ -7,17 +7,28 @@ layout: homepage
 hero_image: >-
   https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4SNnGPUXtKJDP-Ktrk7ORoUCon6zpIMThfYLz0=w1200-h500-c-rj-e30#.jpg
 ---
+<h2 class="w3-center">Streamline Your IT Systems with Modern Cloud Computing</h2>
+<p class="w3-main"> More computing power when you need it and less when you don't. With less time and budget devoted to just keeping your old IT systems running you can focus on your core business and use the power of the cloud to grow rapidly without fear. Computing power can be brought online or retired in real time.</p>
+<p>Computing power as commodity</p>
+<div class="w3-row-padding fpboxes">
 
-# I Build Effective Websites for Forward Thinking Organisations - Save time, money and improve your internet marketing results
+  <div class="w3-col l4 m12 s12 ">
+    <div class="door w3-card xw3-green"><h3>Websites, Web Apps</h3><h4>Convert more of the right people more often</h4><p>Optimised for speed, Optimised for SEO, Optimised to convert, Flexible Content Management, Analytics, Email Marketing ...</p>
+    <a href="/websites/"><p class="fom">> Find Out More</p></a>
+    <!--<a href="/websites/"><button class="w3-blue"> More </button></a>-->
+    </div> 
+  </div>
+  <div class=" w3-col l4 m12 s12">
+    <div class="door w3-card xw3-green"><h3>Office Productivity Apps</h3><h4>Work more efficiently. Secure, Smart and Always Available</h4><p>Documents, Spreadsheets, Presentations, communication, data visualisation ...</p>
+    <a href="/office-productivity/"><p class="fom">> Find Out More</p></a>
+    <!--<a href="/office-productivity/"><button class="w3-blue"> More </button></a>-->
+    </div>
+  </div>
+  <div class="w3-col l4 m12 s12">
+    <div class="door w3-card xw3-dark-grey"><h3>Limitless Computing Power</h3><h4>All you need when you need it and only pay for what you use</h4><p>Servers, Micro Services, Containers, Media management, Database, Serverless, Security ...</p>
+    <a href="/cloud-computing/"><p class="fom">> Find Out More</p></a>
+    <!--<a href="/cloud-computing/"><button class="w3-blue"> More </button></a>-->
+    </div>
+  </div>
 
-The number of options available to us for developing and maintaining a website is bewildering. We are spoilt for choice. With access to the Internet you can have a website up and running in minutes. A website that, in theory, is accessible to billions of people all over the planet. How do you know which of the miriad offerings is right for your project? The wrong choice can be catastrophic.
-
-To avoid disaster many organisations and entrepreneurs come to me for help and advice in finding the right solution. If I cannot help you I can guide you towards the right people who can.
-
-Tools and infrastructure are available in abundance at minimal cost so you would think that more people would just roll up their sleeves and get on with it. Some do and achieve greatness. Many professionals in the web industry are self taught.
-
-The fact is that to aquire and maintain all the necessary skills to build and manage a website consumes a lot of time.
-
-Unless you want to specialise in building and maintaining websites your time will be better spent doing what you already excel at and leave the website to those who devote all their time to that endeavor.
-
-Talk to me first about your next web project. I focus my 4 decades of expertise to deliver you a website that moves your orgaanisation forward by reducing the complexity and increasing flexibility. My approach is pragmatic and driven by a desire to achieve more with less. I will not jeapordise your project as I don't have a slavish devotion to a particular approach/technology. What I do have is 4 decades of IT experience which you can access to help you make the right decisions.
+</div>
