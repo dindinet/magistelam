@@ -8,7 +8,7 @@ hero_image: >-
   https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4SNnGPUXtKJDP-Ktrk7ORoUCon6zpIMThfYLz0=w1200-h500-c-rj-e30#.jpg
 ---
 <h2 class="w3-center">Streamline Your IT Systems with Modern Cloud Computing</h2>
-<p class="w3-main"> More computing power when you need it and less when you don't. With less time and budget devoted to just keeping your old IT systems running you can focus on your core business and use the power of the cloud to grow rapidly without fear. Computing power can be brought online or retired in real time.</p>
+<p class="w3-main"> More computing power when you need it and less when you don't. With less time and budget devoted to just keeping your old IT systems running, you can focus on your core business and use the power of the cloud to grow rapidly without fear. Computing power can be brought online or retired in real time.</p>
 <p>Computing power as commodity</p>
 <div class="w3-row-padding fpboxes">
 

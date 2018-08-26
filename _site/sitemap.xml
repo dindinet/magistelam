@@ -80,4 +80,8 @@
 <url>
 <loc>http://localhost:4000/category/analytics/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/G-Suite-Plans-Comparison.pdf</loc>
+<lastmod>2018-08-23T09:33:42+01:00</lastmod>
+</url>
 </urlset>
