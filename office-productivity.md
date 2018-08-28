@@ -11,26 +11,27 @@ hero_image: >-
 ## Office Productivity - IT in the Cloud
 
 ### Start in the Cloud. Stay in the Cloud.
-* Using the Cloud for your IT pays for itself from day one.
-* Available from any connected device anywhere.
+
+
+
 * Business strength security iso747
 * Improve communication between team members.
+
+### Move to the Cloud
+In case you hadn't already heard, using the Cloud for your IT pays for itself from day one.
+* Secure (ISO 27001, ISO 27017, ISO 27018, PCI DSS)
+* Reduced Capital Costs - No specialised hardware or software required
+* Significant reduction in support costs
+* Improvements are continually rolling out by the cloud provider
 
 ### Ease of Use
 Many people have experience with Google's free offering (*GMail, Docs, Drive etc.*). In most cases users are up and running instantly as transitioning to work with G Suite is quick and easy. 
 
 The online *G Suite Learning Centre* helps users get the most out of G Suite with training guides, tips, customer examples and other resources, all of which minimises calls to your support team. 
 
-### Move to the Cloud
-In case you hadn't alread heard, using the Cloud for your IT pays for itself from day one.
-* Secure Safe
-* Reduced Capital costs
-* At least 80% reduction in support costs
-* Improvements are continually rolling out
-
 ### Small Business Benefits
 
-For less than £5 per month per user you can be up and running with business class productivity tools. To communicate with your team and your customer all you need is a device with access to the internet and your G Suite login. 
+From just £3.30 per month per user you can be up and running with business class productivity tools. To communicate with your team and your customers all you need is a device with access to the internet and your G Suite login. 
 
 Log off from your office computer and pick up where you left off on your way home. Later, you can log on from home and once again pick up where you left off. All your messages and data are saved and backed up in the Cloud. 
 

@@ -1,9 +1,15 @@
 :root {
-  --theme-color:#86d828;
-  --lingrad-start:#86d828;
-  --lingrad-mid:#a8ec55;
-  --lingrad-end:#c6ec97;
-  --alttextcolor: #fff;
+  --theme-color:#fff;
+  --theme-highlight:#2196F3;
+  --lingrad-start:#fff;
+  --lingrad-mid:#fff;
+  --lingrad-end:#fff;
+  --alttextcolor: #000;
+  --body-fonts: 'Roboto', sans-serif ; /*'Helvetica Neue',Arial,sans-serif*/
+  --bodytext-color: #545454;
+  --heading-fonts:'Roboto', sans-serif;
+  --headingtext-color: black;
+  --CTAbutton-color: #ff9800;
 }
 /* W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
@@ -32,9 +38,9 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 ::-webkit-input-placeholder{color:inherit;opacity:0.54}
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 /* End extract */
-html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
-h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:serif}
-h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
+html,body{font-family:var(--body-fonts);font-weight:100;font-size:15px;line-height:1.5;color:var(--bodytext-color);}html{overflow-x:hidden}
+h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:var(--theme-fonts)}
+h1,h2,h3,h4,h5,h6{font-family:var(--heading-fonts);font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
 hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
 .w3-table,.w3-table-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.w3-table-all{border:1px solid #ccc}
@@ -111,7 +117,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-display-position{position:absolute}
 .w3-circle{border-radius:50%}
 .w3-round-small{border-radius:2px}.w3-round,.w3-round-medium{border-radius:4px}.w3-round-large{border-radius:8px}.w3-round-xlarge{border-radius:16px}.w3-round-xxlarge{border-radius:32px}
-.w3-row-padding,.w3-row-padding>.w3-half,.w3-row-padding>.w3-third,.w3-row-padding>.w3-twothird,.w3-row-padding>.w3-threequarter,.w3-row-padding>.w3-quarter,.w3-row-padding>.w3-col{padding:0 8px}
+.w3-row-padding,.w3-row-padding>.w3-half,.w3-row-padding>.w3-third,.w3-row-padding>.w3-twothird,.w3-row-padding>.w3-threequarter,.w3-row-padding>.w3-quarter,.w3-row-padding>.w3-col{padding:8px 8px}
 .w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
 .w3-code,.w3-codespan{font-family:Consolas,"courier new";font-size:16px}
 .w3-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
@@ -148,7 +154,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-padding-32{padding-top:32px!important;padding-bottom:32px!important}.w3-padding-48{padding-top:48px!important;padding-bottom:48px!important}
 .w3-padding-64{padding-top:64px!important;padding-bottom:64px!important}
 .w3-left{float:left!important}.w3-right{float:right!important}
-.w3-button:hover{color: var(--theme-color)!important;background-color:#fff!important}
+.w3-button:hover{color: var(--theme-highlight)!important;background-color:#fff!important}
 .w3-transparent,.w3-hover-none:hover{background-color:transparent!important}
 .w3-hover-none:hover{box-shadow:none!important}
 /* Colors */
@@ -241,13 +247,22 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 /* Site Overrides*/
 body, html {
     height: 100%;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: var(--body-fonts);
     
 }
 body{margin-top:74px;}
+a{text-decoration: none;}
+.theme-highlight{color: var(--theme-highlight);}
+.logo{color:var(--alttextcolor)!important}
 #main{margin: 100px auto; width: 80%;}
-.fpboxes h3{color: orange;}
-.door{padding: 20px; border: 1px solid #ccc;xmargin:20px;min-height:350px;}
+#main h2{color: var(--theme-highlight);font-size: 2.4em;margin-top: 160px;}
+.fpboxes h3{color:var(--theme-highlight);}
+.door{position: relative;padding: 20px; border: 1px solid #ccc;min-height:420px;}
+.fom{position: absolute;bottom: 0px;left: 20px;}
+.fom:hover{color: var(--theme-highlight);}
+.CTAbutton{background-color: var(--CTAbutton-color)}
+#kickCTA{width:100%; padding:30px;background-color: var(--theme-color);font-size:18px;color: var(--bodytext-color)}
+#kickCTA xtextarea{width:100%;}
 .w3-bar{color: var(--alttextcolor)!important;}
 .w3-xxlarge{font-size: 2em!important;}
 .w3-xlarge{font-size: 1.4em!important;}
@@ -305,13 +320,31 @@ body{margin-top:74px;}
 .faq-a{padding-left: 20px;font-size:1.6vw;}
 /*#navDemo{background-color: var(--theme-color)}
 #navDemo > a{color:var(--alttextcolor);}*/
+
+/* callouts */
+.callout{} 
+#CO1{position:absolute;top:-90px;right:-70px;min-width: 400px;min-height:400px;z-index:-1;border-radius: 50%;background-image:url(//www.excourse.com/excentro/exc_2.gif)} /* http://www.clipular.com/c/5766659063939072.png?k=tyvoADViMG3udKhEpV3D2dKpQ-Y */
 @media screen and (min-width: 601px) {
     body, html {
         font-size: 1.2em;      
     }
     p{font-size:18px;}
+    
   }
-  
+  @media screen and (max-width: 993px) {
+    .door{min-height:0px;}
+    .fom{position: relative;bottom: 0px;left: 0px;}
+    #CO1{top:-130px;right:-110px;}
+  }
+  @media screen and (max-width: 928px) {
+    #CO1{top:-180px;right:-110px;}
+  }
+  @media screen and (max-width: 867px) {
+    #CO1{top:-180px;right:-130px;}
+  }
+  @media screen and (max-width: 850px) {
+    #CO1{top:-230px;right:-130px;}
+  }
   /* If the screen size is 800px wide or less */
   @media screen and (max-width: 800px) {
     body, html {
@@ -337,7 +370,7 @@ body{margin-top:74px;}
 .w3-content{max-width:1400px}
 
 /* Landing Page Min css*/
-body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif}h1,h2,h3,h4,h5,h6{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700}header.masthead{position:relative;background-color:#343a40;background:url(https://lh3.googleusercontent.com/-sFRls0K2Btg/WqKnMNsDxnI/AAAAAAAAVf4/jkAmmGLz38oF1yppNki8Zl4x_xIi1EZxQCJoC/s0-rj-l70-e90/bg-masthead.jpg) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding-top:8rem;padding-bottom:8rem}header.masthead .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}header.masthead h1{font-size:2rem}@media (min-width:768px){header.masthead{padding-top:12rem;padding-bottom:12rem}header.masthead h1{font-size:3rem}}.showcase .showcase-text{padding:3rem}.showcase .showcase-img{min-height:30rem;background-size:cover}@media (min-width:768px){.showcase .showcase-text{padding:7rem}}.features-icons{padding-top:7rem;padding-bottom:7rem}.features-icons .features-icons-item{max-width:20rem}.features-icons .features-icons-item .features-icons-icon{height:7rem}.features-icons .features-icons-item .features-icons-icon i{font-size:4.5rem}.features-icons .features-icons-item:hover .features-icons-icon i{font-size:5rem}.testimonials{padding-top:7rem;padding-bottom:7rem}.testimonials .testimonial-item{max-width:18rem}.testimonials .testimonial-item img{max-width:12rem;box-shadow:0 5px 5px 0 #adb5bd}.call-to-action{position:relative;background-color:#343a40;background:url(../img/bg-masthead.jpg) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding-top:7rem;padding-bottom:7rem}.call-to-action .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}footer.footer{padding-top:4rem;padding-bottom:4rem}
+body{var(--theme-fonts)}h1,h2,h3,h4,h5,h6{var(--heading-fonts);font-weight:300}header.masthead{position:relative;background-color:#343a40;background:url(https://lh3.googleusercontent.com/-sFRls0K2Btg/WqKnMNsDxnI/AAAAAAAAVf4/jkAmmGLz38oF1yppNki8Zl4x_xIi1EZxQCJoC/s0-rj-l70-e90/bg-masthead.jpg) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding-top:8rem;padding-bottom:8rem}header.masthead .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}header.masthead h1{font-size:2rem}@media (min-width:768px){header.masthead{padding-top:12rem;padding-bottom:12rem}header.masthead h1{font-size:3rem}}.showcase .showcase-text{padding:3rem}.showcase .showcase-img{min-height:30rem;background-size:cover}@media (min-width:768px){.showcase .showcase-text{padding:7rem}}.features-icons{padding-top:7rem;padding-bottom:7rem}.features-icons .features-icons-item{max-width:20rem}.features-icons .features-icons-item .features-icons-icon{height:7rem}.features-icons .features-icons-item .features-icons-icon i{font-size:4.5rem}.features-icons .features-icons-item:hover .features-icons-icon i{font-size:5rem}.testimonials{padding-top:7rem;padding-bottom:7rem}.testimonials .testimonial-item{max-width:18rem}.testimonials .testimonial-item img{max-width:12rem;box-shadow:0 5px 5px 0 #adb5bd}.call-to-action{position:relative;background-color:#343a40;background:url(../img/bg-masthead.jpg) no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding-top:7rem;padding-bottom:7rem}.call-to-action .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.3}footer.footer{padding-top:4rem;padding-bottom:4rem}
 /* benefit-bar*/ 
  #top{margin-top: 80px;} 
  #hero{margin: 100px auto;}
@@ -429,18 +462,19 @@ padding: 32px;
   }
   #navDemo{background:white;}
 
-  .fom::first-letter {
+   .fombullet{ /*.fom:first-letter*/
     font-size: 3em;
     float: left;
     margin-top: -0.6em;
     padding: 0.1em;
-    color: orange;
+    color:var(--theme-highlight);
+
 }
   @media (min-width: 605px) {
     .navbar div {
       display: flex;
     }
-    .w3-bar{background-color:blue;}
+    .w3-bar{background-color:#fff;}
   }
   @media (max-width: 810px) {
     .w3-bar{font-size:0.8em;}
