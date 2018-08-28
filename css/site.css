@@ -360,7 +360,7 @@ a{text-decoration: none;}
     .order1{order:2;-webkit-order:2;}
     .order2{order:1;-webkit-order:1;}
     .w3-xxlarge{font-size: 1.2em!important;}
-    #CO1{display: none;}
+    #CO1{right:1px;}
   }
 /* The hero image */
 
