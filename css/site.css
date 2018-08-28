@@ -261,8 +261,8 @@ a{text-decoration: none;}
 .fom{position: absolute;bottom: 0px;left: 20px;}
 .fom:hover{color: var(--theme-highlight);}
 .CTAbutton{background-color: var(--CTAbutton-color)}
-#kickCTA{width:100%; padding:30px;background-color: var(--theme-color);font-size:18px;color: var(--bodytext-color)}
-#kickCTA xtextarea{width:100%;}
+#kickCTA{width:100%; padding:10px;background-color: var(--theme-color);font-size:18px;color: var(--bodytext-color)}
+#kickCTA textarea{width:100%;}
 .w3-bar{color: var(--alttextcolor)!important;}
 .w3-xxlarge{font-size: 2em!important;}
 .w3-xlarge{font-size: 1.4em!important;}
