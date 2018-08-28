@@ -323,7 +323,7 @@ a{text-decoration: none;}
 
 /* callouts */
 .callout{} 
-#CO1{position:absolute;top:-90px;right:-70px;min-width: 400px;min-height:400px;z-index:-1;border-radius: 50%;background-image:url(https://lh3.googleusercontent.com/-faqt8TzFBeQ/W4VRPoOwc2I/AAAAAAAAW_U/gW4aLqRUbVE-4IlTsUTP0rGlz8E9lI9MgCL0BGAs/s0/exc_2.gif)} /* http://www.clipular.com/c/5766659063939072.png?k=tyvoADViMG3udKhEpV3D2dKpQ-Y */
+#CO1{overflow:hidden;position:absolute;top:-90px;right:-70px;min-width: 400px;min-height:400px;z-index:-1;border-radius: 50%;background-image:url(https://lh3.googleusercontent.com/-faqt8TzFBeQ/W4VRPoOwc2I/AAAAAAAAW_U/gW4aLqRUbVE-4IlTsUTP0rGlz8E9lI9MgCL0BGAs/s0/exc_2.gif)} /* http://www.clipular.com/c/5766659063939072.png?k=tyvoADViMG3udKhEpV3D2dKpQ-Y */
 @media screen and (min-width: 601px) {
     body, html {
         font-size: 1.2em;      
