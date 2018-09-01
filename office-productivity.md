@@ -18,7 +18,7 @@ In case you hadn't already heard, using the Cloud for your IT pays for itself fr
 * Reduced Capital Costs - No specialised hardware or software required
 * Significant savings in support costs
 * Secure (ISO 27001, ISO 27017, ISO 27018, PCI DSS)
-* 
+* 99.9% uptime
 * Improvements are continually rolling out by Google
 
 ### Ease of Use
