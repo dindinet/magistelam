@@ -10,24 +10,22 @@ hero_image: >-
 
 ## Office Productivity - IT in the Cloud
 
-### Start in the Cloud. Stay in the Cloud.
-
-
-
-* Business strength security iso747
-* Improve communication between team members.
+### Simplicify your Business IT
+Use G Suite for business email, video conferencing, cloud storage and file sharing. Get all the tools that your team needs to collaborate, be more productive and reduce the management burden.
 
 ### Move to the Cloud
 In case you hadn't already heard, using the Cloud for your IT pays for itself from day one.
-* Secure (ISO 27001, ISO 27017, ISO 27018, PCI DSS)
 * Reduced Capital Costs - No specialised hardware or software required
-* Significant reduction in support costs
-* Improvements are continually rolling out by the cloud provider
+* Significant savings in support costs
+* Secure (ISO 27001, ISO 27017, ISO 27018, PCI DSS)
+* 
+* Improvements are continually rolling out by Google
 
 ### Ease of Use
-Many people have experience with Google's free offering (*GMail, Docs, Drive etc.*). In most cases users are up and running instantly as transitioning to work with G Suite is quick and easy. 
+Many people have experience with Google’s free offering (GMail, Docs, Drive etc.) so users transition to GSuite very easy. For others who are not so familiar, resources are available. The online *G Suite Learning Centre* helps users get the most out of G Suite with training guides, tips, customer examples and other resources, all of which minimises calls to your support team. 
 
-The online *G Suite Learning Centre* helps users get the most out of G Suite with training guides, tips, customer examples and other resources, all of which minimises calls to your support team. 
+Work seemlessly with microsoft file types edit and save.
+The admin for your domain cotrols what users have access to.
 
 ### Small Business Benefits
 
