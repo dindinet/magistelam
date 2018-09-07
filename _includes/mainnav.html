@@ -5,7 +5,18 @@
           <a href="{{ site.url }}{{site.baseurl}}" class="w3-bar-item w3-button w3-padding-large"><span class="theme-highlight">Kick</span><span class="logo">Complexity</span></a>
           <div class="w3-right w3-hide-small">
                 {% for nav in site.data.nav %}
-                <a href="{{ site.url }}{{site.baseurl}}{{ nav.link }}" class="w3-bar-item w3-button  w3-padding-large w3-hide-small">{{ nav.name }}</a>
+                  {% if nav.type == 'dropdown' %}
+                    <div class="w3-dropdown-hover">
+                      <button class="w3-button">{{ nav.name }}</button>
+                      <div class="w3-dropdown-content w3-bar-block w3-border">
+                          {% for item in nav.dropitems %}
+                            <a href="{{ site.url }}{{site.baseurl}}{{ item.link }}" class="w3-bar-item w3-button">{{ item.name }}</a>
+                          {% endfor %}
+                      </div>
+                    </div>
+                  {% else %}              
+                    <a href="{{ site.url }}{{site.baseurl}}{{ nav.link }}" class="w3-bar-item w3-button  w3-padding-large w3-hide-small">{{ nav.name }}</a>
+                  {% endif %}
                 {% endfor %}
 
         </div>
@@ -15,7 +26,14 @@
       <div id="navDemo" class="w3-bar-block w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
             
                     {% for nav in site.data.nav %}
-                    <a href="{{ site.url }}{{site.baseurl}}{{ nav.link }}" class="w3-bar-item w3-button  w3-padding-large">{{ nav.name }}</a>
+                    {% if nav.type == 'dropdown' %}
+                    {{ nav.name }}<br/>
+                    {% for item in nav.dropitems %}
+                            <a href="{{ site.url }}{{site.baseurl}}{{ item.link }}" class="w3-bar-item w3-button">{{ item.name }}</a>
+                    {% endfor %}
+                    {% else %}
+                      <a href="{{ site.url }}{{site.baseurl}}{{ nav.link }}" class="w3-bar-item w3-button  w3-padding-large">{{ nav.name }}</a>
+                    {% endif %}
                     {% endfor %}
 
       

@@ -29,3 +29,15 @@ The obvious reason to choose the Cloud, over owning physical hardware, is that y
 Startups and smaller companies can now access computing power that they could only dream of before Cloud Computing was a thing. 
 
 Cloud Computing providers offer computing power as a service where you only pay for what you use. In many cases, computing resources are scaled up and down automatically to meet demand.
+
+### What is Cloud Computing?
+
+#### Infrastructure as a Service - IAAS
+
+#### Platform as a Service - PAAS
+Google App Engine, Windows Azure, Heroku, Force.com, Apache Stratos, OpenShift, AWS Elastic Beanstalk 
+
+#### Software as a Service - SAAS
+Software as a service is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. Examples include GSuite, Office365, Google Analytics, Mailchimp
+
+Software as a Service, also known as cloud application services, represent the most commonly utilized option for businesses in the cloud market. SaaS utilizes the internet to deliver applications to its users, which are managed by a third-party vendor. A majority of SaaS applications are run directly through the web browser, and do not require any downloads or installations on the client side.

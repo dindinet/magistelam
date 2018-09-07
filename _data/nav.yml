@@ -1,5 +1,19 @@
 - name: Services
   link: /services/
+  type: dropdown
+  dropitems:
+   - name: Websites &amp; Web Hosting
+     link: /websites/   
+   - name: Email Hosting
+     link: /email-hosting/
+   - name: Office Productivity
+     link: /office-productivity/
+   - name: Cloud Computing
+     link: /cloud-computing/
+   - name: Application Development
+     link: /application-development/
+   - name: Domain Names
+     link: /domain-names/
 - name: Articles
   link: /articles/
 - name: About
