@@ -5,9 +5,9 @@
   --lingrad-mid:#fff;
   --lingrad-end:#fff;
   --alttextcolor: #000;
-  --body-fonts: 'Roboto', sans-serif ; /*'Helvetica Neue',Arial,sans-serif*/
+  --body-fonts: Ubuntu,'Roboto', sans-serif ; /*'Helvetica Neue',Arial,sans-serif*/
   --bodytext-color: #545454;
-  --heading-fonts:'Roboto', sans-serif;
+  --heading-fonts:Ubuntu, sans-serif,'Roboto', sans-serif;
   --headingtext-color: black;
   --CTAbutton-color: #ff9800;
 }
