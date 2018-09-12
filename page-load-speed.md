@@ -8,19 +8,19 @@ hero_image: >-
 https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4SNnGPUXtKJDP-Ktrk7ORoUCon6zpIMThfYLz0=w1200-h500-c-rj-e30#.jpg
 ---
 
-  # Slow Load Speed is Killing Your Business
+# Slow Load Speed is Killing Your Business
 
  IMPROVE YOUR PAGE LOAD SPEED  before it’s too late - Get an extensive report which highlights the problems and explains how to fix them. Only £50 (fully refundable if you engage us to implement the fixes.) 
 
-## Your website page load speed will make or break your organisation
+## Your website page load speed can make or break your organisation
 
 Page load speed can send your organisation’s growth into the stratosphere or bring it crashing down to earth without a sound.
 
-People hate slow loading pages. Search engines (google) know this and promote faster pages.
+People hate slow loading pages. Search engines (google) know this and promote faster pages to keep their users coming back.
 
-Slow pages struggle to get top listings in the search engines, especially in crowded competitive niches, affecting your organisation’s chances of succeeding even before a visitor lands on your website.
+Slow pages struggle to get effective listings in the search engines, especially in crowded competitive niches. Slow loading pages limit your organisation’s chances of succeeding even before a visitor lands on your website. Just like olympic sprinters do not choose to compete wearing work boots, a modern business should not try to compete in the digital space with an unoptimised website.
 
-### Slow loading pages increase the chances of a high bounce rate.
+### Slow Loading Pages Increase the Chance of High Bounce Rate.
 
 High bounce rate means large numbers of your visitors are leaving without even seeing your offer. High Bounce Rate is not your friend.
 
@@ -68,6 +68,8 @@ IMPROVE YOUR PAGE LOAD SPEED before it is too late - Get an extensive report whi
 ### Do You Need To Take Action Today?
 If you are winning now but your main competitor takes action then your main competitor will overtake you and grow faster. A website that loads fast and presents an offer optimised for the visitors will convert more and generate more revenue for the same fixed costs. Profits quickly grow. 
 
-With their new dominant position and optimised marketing they will inevitably take an unassailable lead. With their growing revenues they will be able to outbid everyone else in the niche to promote their offer. By taking action now and adopting an optimising approach to your marketing your organisation will dominate.
+With their new dominant position and optimised marketing they will inevitably take an unassailable lead. With their growing revenues they will be able to outbid everyone else in the niche to promote their offer. By taking action now and adopting an optimising approach to your marketing your organisation can dominate.
 
 IMPROVE YOUR PAGE LOAD SPEED before it is too late - Get an extensive report which highlights the problems and explains how to fix them. Only £50 (fully refundable if you engage us to implement the fixes.)
+
+We advise how to set up a measurement system, what to measure and how to measure
