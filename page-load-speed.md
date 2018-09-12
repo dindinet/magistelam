@@ -10,8 +10,6 @@ https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4
 
 # Slow Load Speed is Killing Your Business
 
- IMPROVE YOUR PAGE LOAD SPEED  before it’s too late - Get an extensive report which highlights the problems and explains how to fix them. Only £50 (fully refundable if you engage us to implement the fixes.) 
-
 ## Your website page load speed can make or break your organisation
 
 Page load speed can send your organisation’s growth into the stratosphere or bring it crashing down to earth without a sound.
@@ -19,6 +17,8 @@ Page load speed can send your organisation’s growth into the stratosphere or b
 People hate slow loading pages. Search engines (google) know this and promote faster pages to keep their users coming back.
 
 Slow pages struggle to get effective listings in the search engines, especially in crowded competitive niches. Slow loading pages limit your organisation’s chances of succeeding even before a visitor lands on your website. Just like olympic sprinters do not choose to compete wearing work boots, a modern business should not try to compete in the digital space with an unoptimised website.
+
+ IMPROVE YOUR PAGE LOAD SPEED  before it’s too late - Get an extensive report which highlights the problems and explains how to fix them. Only £50 (fully refundable if you engage us to implement the fixes.) 
 
 ### Slow Loading Pages Increase the Chance of High Bounce Rate.
 
