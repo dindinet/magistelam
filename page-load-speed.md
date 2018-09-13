@@ -30,7 +30,7 @@ Image from this excellent article on [moz.com Accelerated Mobile Pages (AMP)](ht
 {: .w3-small .w3-center}
 
 
-![Effects of page load speed on revenue - The higher the load speed the greater the revenue](https://lh3.googleusercontent.com/-lBQrLLYpXWI/W5fKipIeqDI/AAAAAAAAXEw/ZoDKRXBU4Fkto1WO8KIIe95xoy1-NNy3ACL0BGAs/w530-h280-n-rp/amazonwalmartyahoo.png)
+![Effects of page load speed on revenue - The higher the load speed the greater the revenue](https://lh3.googleusercontent.com/-lBQrLLYpXWI/W5fKipIeqDI/AAAAAAAAXEw/ZoDKRXBU4Fkto1WO8KIIe95xoy1-NNy3ACL0BGAs/w530-h280-n-rp-e30/amazonwalmartyahoo.png)
 {: .w3-center }
 
 While your website might not get the same number of visits or make as much money as Amazon or Walmart, it gets visitors nonetheless. Do all those visitors convert? How many of them bounce without seeing your content?
