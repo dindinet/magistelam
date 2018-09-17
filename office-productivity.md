@@ -8,10 +8,10 @@ hero_image: >-
   https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4SNnGPUXtKJDP-Ktrk7ORoUCon6zpIMThfYLz0=w1200-h500-c-rj-e30#.jpg
 ---
 
-## Office Productivity - IT in the Cloud
+## Office Productivity - More Productive in the Cloud
 
 ### Simplicify your Business IT
-Use G Suite for business email, video conferencing, cloud storage and file sharing. Get all the tools that your team needs to collaborate, be more productive and reduce the management burden.
+Use G Suite from Google for business email, video conferencing, cloud storage and file sharing. Get all the tools that your team needs to collaborate, be more productive and reduce the management burden.
 
 ### Move to the Cloud
 In case you hadn't already heard, using the Cloud for your IT pays for itself from day one.
