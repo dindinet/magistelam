@@ -26,6 +26,7 @@ hero_image: >-
     <a href="/websites/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
     <!--<a href="/websites/"><button class="w3-blue"> More </button></a>-->
     </div>
+     </div>
   <div class=" w3-col l4 m12 s12">
     <div class="door w3-card xw3-green"><h3>Email Hosting &amp; Office Productivity</h3><h4>Secure, smart and always available</h4><p>Teamwork Efficiencies. Documents, Spreadsheets, Presentations, Communication, Data Visualisation ...</p>
     <a href="/office-productivity/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
@@ -34,7 +35,7 @@ hero_image: >-
   </div>
 
  
-  </div>
+ 
     <div class="w3-col l4 m12 s12">
     <div class="door w3-card xw3-dark-grey">
         <h3>Domain Names</h3><h4>Registration and DNS Management</h4>
