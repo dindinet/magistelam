@@ -55,7 +55,7 @@ hero_image: >-
     </div>
   </div> -->
   <div class=" w3-col l6 m12 s12">
-    <div class="smalldoor w3-card"><h3>Domain Names</h3><h4>Take Control of Your Domain Names</h4>
+    <div class="smalldoor w3-card"><h3>Domain Names</h3><h4>Registration and DNS Management</h4>
     <a href="/domain-names/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
     <!--<a href="/cloud-computing/"><button class="w3-blue"> More </button></a>-->
     </div>

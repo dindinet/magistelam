@@ -21,10 +21,16 @@
 <lastmod>2018-04-13T01:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/application-development/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/articles/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cloud-computing/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/domain-names/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/email-hosting/</loc>

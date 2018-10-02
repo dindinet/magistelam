@@ -10,18 +10,33 @@ hero_image: >-
 
 ## Your email on secure, robust infrastructure
 
-### Secure - Flexible - Convenient
+### Email in the modern age Secure - Flexible - Convenient
 
+Hosting email on your domain is essential for the modern organisation. You cannot afford for your email service to be down. Paying a small fee per user per month is a much more cost effective way to maintain a professional email service.
+
+Self Hosting is only practical and cost effective if you have a highly specialised IT team on the payroll.
+
+#### Secure
 * Backed up/Archived - Lose a device Lose your email is so over
 * Keep it off devices - Lose a device Lose your email is so over
+
+#### Flexible
 * Access From any Device
 * Share Docs don't send large attachments
-* Email in the modern age
-* Manage User Access
-* Share accounts
-* Multiple aliases
-* Group Email Addresses
 * Add other domains
-* Archive
+
+
+#### Convenient
 * Reduce Spam
 * Keep wanted messages out of spam - White listing
+* Manage User Access
+* Multiple aliases
+* Group Email Addresses
+
+
+
+
+
+
+
+
