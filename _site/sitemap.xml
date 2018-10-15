@@ -42,6 +42,9 @@
 <loc>http://localhost:4000/grid/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/index-opti/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/faq/</loc>
 </url>
 <url>

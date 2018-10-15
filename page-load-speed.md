@@ -7,6 +7,25 @@ layout: section-index
 hero_image: >-
   https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4SNnGPUXtKJDP-Ktrk7ORoUCon6zpIMThfYLz0=w1200-h500-c-rj-e30#.jpg
 ---
+<div class="w3-row cta2x1">
+  <div class="w3-col l7 m6 s12 ctaleft">
+  <div class="cta-title">Improve Website Loading Speed</div>  
+  <div class="cta-strap">before it’s too late</div>
+  </div>
+  <div class="w3-col l4 m6 s12 ctaright">
+  <div class="cta-heading">Load Speed Optimisation Report</div>
+  <div class="cta-body">
+  <p>Understand fully the reasons your website is loading slowly and the importance of optimising it to load quickly.</p>
+
+<p>Our engineers examine your website, including web hosting and DNS hosting. </p>
+
+<p>You will receive a detailed report of results and an explanation of  the adjustments required to speed up your page load times and, critically,  how to maintain fast loading page speeds in the future.</p>
+
+  </div>
+  <div class="cta-price">Order for £50 refundable*</div>
+  <div class="cta-starref">* If you choose optimisationexperts.com to implement the report findings and optimise your website, we will discount the cost of your Load Speed Optimisation Report from your final invoice.</div>
+  </div>
+</div>
 
 ## Page Load Speed can make or break your organisation
 
@@ -61,25 +80,6 @@ On the internet your web pages are the sales force. A high bounce rate is a sign
 
 It may well be more than just load speed that is causing the bounce but improving load speed is an essential first step. If you fail to fix page load speed issues, you are potentially sabotaging all your efforts to convert visitors.
 
-<div class="w3-row cta2x1">
-  <div class="w3-col l7 m6 s12 ctaleft">
-  <div class="cta-title">Improve Website Loading Speed</div>  
-  <div class="cta-strap">before it’s too late</div>
-  </div>
-  <div class="w3-col l4 m6 s12 ctaright">
-  <div class="cta-heading">Load Speed Optimisation Report</div>
-  <div class="cta-body">
-  <p>Understand fully the reasons your website is loading slowly and the importance of optimising it to load quickly.</p>
-
-<p>Our engineers examine your website, including web hosting and DNS hosting. </p>
-
-<p>You will receive a detailed report of results and an explanation of  the adjustments required to speed up your page load times and, critically,  how to maintain fast loading page speeds in the future.</p>
-
-  </div>
-  <div class="cta-price">Order for £50 refundable*</div>
-  <div class="cta-starref">* If you choose optimisationexperts.com to implement the report findings and optimise your website, we will discount the cost of your Load Speed Optimisation Report from your final invoice.</div>
-  </div>
-</div>
 
 ### Do I Need To Take Action Today?
 If you are winning now but your main competitor takes action before you then your main competitor will overtake you and grow faster. A website that loads fast and presents an offer optimised for the visitors will convert more and generate more revenue for the same fixed costs. Profits quickly grow. 

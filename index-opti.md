@@ -7,9 +7,9 @@ layout: homepage
 hero_image: >-
   https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4SNnGPUXtKJDP-Ktrk7ORoUCon6zpIMThfYLz0=w1200-h500-c-rj-e30#.jpg
 ---
-<h2 class="w3-center herohead">Move your IT to The Cloud</h2>
+<h2 class="w3-center herohead">Optimise Your Online Marketing</h2>
 <h3 class="w3-center herohead">Transform Your Organisation</h3>
-<h4 style="text-align: center;">Only Pay For What You Use - Reduce Maintenace Costs - Access Latest Technology - Eliminate Capital Expenditure - Reduce Environmental Impact- Streamline your Processes - Get Closer to Your Customers </h4>
+<h4 style="text-align: center;">Convert more visitors into<br/> sponsors - subscribers - customers - evangelists</h4>
 <!--<p class="w3-main"> Computing power when you need it. With less time and budget devoted to keeping IT systems running, you can focus on your core business.  Computing power can be brought online or retired in real time allowing you to grow with peace of mind.</p> -->
 <!-- <h2 class="w3-center herohead">Get your Organisations IT Under Control to Save Time and Money</h2>
 <h2 class="w3-center herohead">Does the thought of your IT cause you to feel anxious?</h2>
@@ -59,3 +59,31 @@ hero_image: >-
   </div>
 
 </div>
+
+### The We get You Started on the Road to Success Package
+* Measurement Tools Setup - Conversion Rate, Success Metrics, Benchmark and Set Targets - Google Analytics and Google Tag Manager setup
+* Website Testing/Experiments Tool Setup - Google Optimize
+* Visitor Recording Setup - Smartlook / Hotjar / FullStory
+* Email Marketing List Setup Mailchimp / MailerLite
+* CMS - Landing Page Builder CloudCannon / Forestry
+
+From £800
+
+### Most Popular - 12 Months Supported Master Mentoring to give you the powers
+
+* all of The We get You Started on the Road to Success Package
+
+ plus
+
+* 12 1hr one to one Mentoring Sessions to keep you focused(£1200 value)
+* 6 Bi-monthly Pier Group Support Sessions
+* Email Support in working hours for one year
+* Highly Focused Inner Circle Email Newsletter for Life
+
+£1800
+
+Before you can start to optimise your website you need to be able to measure performance using analytics as well as using testing software to launch experiments of potential improvements.
+
+Setting up an analytics tool and learning how to use it is essential for anyone who is serious about optimising their website for better results. Without analytics and testing tools website optimisation is impossible.
+
+I recommend the use of Google Analytics and Google Optimize. These tools are free to use and as they are both from google they interate really well.

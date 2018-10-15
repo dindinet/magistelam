@@ -368,7 +368,7 @@ a{text-decoration: none;}
 .door h4, .smalldoor h4{color:var(--theme-highlight);}
 .door{position: relative;padding: 20px; border: 1px solid #ccc;min-height: 360px;}
 .fom{position: absolute;bottom: 0px;left: 20px;}
-.smalldoor{position: relative;padding: 20px; border: 1px solid #ccc;min-height: 220px;}
+.smalldoor{position: relative;padding: 20px; border: 1px solid #ccc;min-height: 280px;}
 .fom:hover{color: var(--theme-highlight);}
 .CTAbutton{background-color: var(--CTAbutton-color)}
 #kickCTA{width:100%; padding:10px;background-color: var(--theme-color);font-size:18px;color: var(--bodytext-color)}
