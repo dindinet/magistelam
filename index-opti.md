@@ -10,7 +10,7 @@ hero_image: >-
 
 <div class="w3-row w3-red w3-colored-background">
    <div class="w3-col l9">
-    <h2>Setup to do more with your digital marketing </h2>
+    <h2>Get the SetUp to supercharge your marketing</h2>
     <h3>More suscribers / donors / customers</h3>
     <p>
     The cost of getting traffic to your website is not getting easier or cheaper. To get the best return on your investment in time and money you need to convert as many of the visitors as possible. Your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to increase your conversion rate.
