@@ -361,10 +361,29 @@ a{text-decoration: none;}
 .link:hover{text-decoration: underline;}
 .theme-highlight{color: var(--theme-highlight);}
 .logo{color:var(--alttextcolor)!important}
-#main{margin: 100px auto; width: 80%;}
-#main h2{color: var(--theme-highlight);font-size: 2.4em;margin-top: 160px;}
-#main h3{color: var(--theme-highlight);font-size: 1.6em;}
+#main{margin: 100px auto; width: 100%;}
+#main h2{color: var(--theme-color);font-size: 2.4em;margin-top: 160px;}
+#main h3{color: var(--theme-color);font-size: 1.6em;}
 #main .door h3, #main .smalldoor h3{color: var(--theme-highlight);font-size: 1.2em;}
+#landing .w3-row{width: 100%;}
+#landing .w3-col{padding:0px 40px 60px 40px}
+.w3-colored-background{color: var(--theme-color)}
+#landing h2{font-size: 2.4em;padding-top:30px;}
+#landing h3{font-size: 1.6em;}
+.strands{margin-top: 30px;}
+.strands .w3-col h3{display: inline-block; position: relative; margin-bottom: 0;font-weight: 700;border: 1px solid cadetblue;}
+.strands .w3-col h3:before{
+  background-color: #6FC0FF;
+  content: "";
+  z-index: -1;
+  width: calc(100% - .2rem);
+  height: calc(80% + .1rem);
+  display: block;
+  position: absolute;
+  left: -.3rem;
+  top: -.3rem;
+}
+
 .door h4, .smalldoor h4{color:var(--theme-highlight);}
 .door{position: relative;padding: 20px; border: 1px solid #ccc;min-height: 360px;}
 .fom{position: absolute;bottom: 0px;left: 20px;}

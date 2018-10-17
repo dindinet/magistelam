@@ -3,62 +3,67 @@ title: Websites for growth
 description: >-
   Only by steady continuous improvement can you grow and sustain your
   organisation
-layout: homepage
+layout: landing
 hero_image: >-
   https://lh3.googleusercontent.com/f81XKtQN6Qi6i8u6eH2Y8RaAebqBxNOELdwRmq1B7LWbT4SNnGPUXtKJDP-Ktrk7ORoUCon6zpIMThfYLz0=w1200-h500-c-rj-e30#.jpg
 ---
-<h2 class="w3-center herohead">Optimise Your Online Marketing</h2>
-<h3 class="w3-center herohead">Transform Your Organisation</h3>
-<h4 style="text-align: center;">Convert more visitors into<br/> sponsors - subscribers - customers - evangelists</h4>
-<!--<p class="w3-main"> Computing power when you need it. With less time and budget devoted to keeping IT systems running, you can focus on your core business.  Computing power can be brought online or retired in real time allowing you to grow with peace of mind.</p> -->
-<!-- <h2 class="w3-center herohead">Get your Organisations IT Under Control to Save Time and Money</h2>
-<h2 class="w3-center herohead">Does the thought of your IT cause you to feel anxious?</h2>
-<h2 class="w3-center herohead">Is IT Consuming too much of Your Time and Energy? Has IT Yielded the Promised Benefits ?</h2>
-<h4 style="text-align: center;">Get your IT under control. Save Time and Money. </h4>
-<p class="w3-main"> In many Small and Medium Sized Organisations IT management can be a problem. The cloud offers a degree of management as part of the service.</p> -->
 
-<div class="w3-row-padding fpboxes">
-
-
-
-  <div class="w3-col l4 m12 s12 ">
-    <div class="door w3-card xw3-green"><h3>Website Optimisation, Design and Hosting</h3><h4>Convert more of the right people</h4><p>Optimised to Convert, Load Fast, SEO Ready, Flexible Content Management, Analytics, Email Marketing ...</p>
-    <a href="/websites/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
-    <!--<a href="/websites/"><button class="w3-blue"> More </button></a>-->
-    </div>
-     </div>
-  <div class=" w3-col l4 m12 s12">
-    <div class="door w3-card xw3-green"><h3>Email Hosting</h3><h4>Secure, Flexible and Convenient</h4><p>Email on your domain - essential for the modern organisation</p>
-    <a href="/email-hosting/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
-    <!--<a href="/office-productivity/"><button class="w3-blue"> More </button></a>-->
-    </div>
+<div class="w3-row w3-red w3-colored-background">
+   <div class="w3-col l9">
+    <h2>Setup to do more with your digital marketing </h2>
+    <h3>More suscribers / donors / customers</h3>
+    <p>
+    The cost of getting traffic to your website is not getting easier or cheaper. To get the best return on your investment in time and money you need to convert as many of the visitors as possible. Your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to increase your conversion rate.
+    </p>
   </div>
-    <div class="w3-col l4 m12 s12">
-    <div class="door w3-card xw3-dark-grey">
-<h3>Office Productivity</h3><h4>Secure, smart and always available</h4><p>Teamwork Efficiencies. Documents, Spreadsheets, Presentations, Communication, Data Visualisation ...</p>
-    <a href="/office-productivity/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
-    </div>
-  </div>
-
 </div>
-<div class="w3-row-padding fpboxes">
-
-  <div class="w3-col l6 m12 s12 ">
-    <div class="smalldoor w3-card xw3-green"><h3>Application Development & Cloud Computing</h3><h4>Bespoke Software Development &amp; Systems Integration</h4><p>Servers, Media Management, Databases, Storage  Solutions(Data Encrypted at rest and in transit), Audio &amp; Video Streaming, Data Analysis, AI</p>
-        <a href="/application-development/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
-    <!--<a href="/websites/"><button class="w3-blue"> More </button></a>-->
-    </div> 
+<div class="w3-row">
+   <div class="w3-col l12 strands" >
+    <div class="w3-col l3"><h3>Tune</h3> Make it fast. Make it presentable on all screen sizes. Make it easy to use.</div>
+    <div class="w3-col l3"><h3>Measure</h3> Be sure to collect all the right numbers</div>
+    <div class="w3-col l3"><h3>Analyse</h3> Base your marketing decisions on real world numbers </div>
+    <div class="w3-col l3"><h3>Experiment</h3> Try out new ideas against your current best</div>
   </div>
-
-  <div class=" w3-col l6 m12 s12">
-    <div class="smalldoor w3-card">
-    <h3>Domain Names</h3><h4>Registration and DNS Management</h4>
-    <a href="/domain-names/"><div class="fom"><span class="fombullet">></span> Learn More</div></a>
-    <!--<a href="/cloud-computing/"><button class="w3-blue"> More </button></a>-->
-    </div>
-  </div>
-
 </div>
+<div class="w3-row">
+   <div class="w3-col w3-right l9">
+    <h2>Prepare your website for higher conversion</h2>
+    <h3>Don't drive your visitors into the waiting arms of your competitors</h3>
+    <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your visitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly if your website is difficult to navigate or does not display optimally on visitors preferred devices they will bounce. Search angines do not reward high bounce rate.</p> 
+  </div>
+</div>
+
+<div class="w3-row w3-teal w3-colored-background">
+   <div class="w3-col l9">
+    <h2>Set up Analytics to measure your success</h2>
+    <h3>Without reliable numbers you will not know if your optimisation efforts are having the desired effect</h3>
+  </div>
+</div>
+<div class="w3-row">
+   <div class="w3-col w3-right l9">
+    <h2>Set Up Testing Tool</h2>
+    <h3>A testing tool allows you to make changes to pages witout needing to involve your IT people</h3>
+  </div>
+</div>
+<div class="w3-row w3-green w3-colored-background">
+   <div class="w3-col l9">
+    <h2>Run Experiments</h2>
+    <h3>If you don't run experiments you will not be able to improve your conversion rate</h3>
+  </div>
+</div>
+<div class="w3-row">
+   <div class="w3-col w3-right l9">
+    <h2>Email Marketing</h2>
+    <h3>You must collect the email address of as many website visitors as possible. It is much more cost effective to contact subuscribers than pay again to get them to your website</h3>
+  </div>
+</div>
+<div class="w3-row w3-purple w3-colored-background">
+   <div class="w3-col l9">
+    <h2>Charts and Compass for Your Online Marketing.</h2>
+    <h3>Find the more direct route to the Treasure</h3>
+  </div>
+</div>
+
 
 ### The We get You Started on the Road to Success Package
 * Measurement Tools Setup - Conversion Rate, Success Metrics, Benchmark and Set Targets - Google Analytics and Google Tag Manager setup
