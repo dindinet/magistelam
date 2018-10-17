@@ -10,7 +10,7 @@ hero_image: >-
 
 <div class="w3-row w3-red w3-colored-background">
    <div class="w3-col l9">
-    <h2>Get the SetUp to supercharge your marketing</h2>
+    <h2>Get SetUp and supercharge your marketing</h2>
     <h3>More suscribers / donors / customers</h3>
     <p>
     Getting traffic to your website is not getting easier or cheaper. You must convert as many visitors as possible to get the best return on your investment of time and money. Your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to increase your conversion rate.
@@ -20,7 +20,7 @@ hero_image: >-
 <div class="w3-row">
    <div class="w3-col l12 strands" >
     <div class="w3-col l3"><h3>Tune</h3> Make it fast. Make it present well on all devices. Make it easy to use.</div>
-    <div class="w3-col l3"><h3>Measure</h3> Be sure to collect all the right numbers</div>
+    <div class="w3-col l3"><h3>Measure</h3> Be sure to collect all the right numbers. No Numbers</div>
     <div class="w3-col l3"><h3>Analyse</h3> Base your marketing decisions on real world numbers </div>
     <div class="w3-col l3"><h3>Experiment</h3> Try out new ideas against your current best</div>
   </div>
