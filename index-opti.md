@@ -15,7 +15,6 @@ hero_image: >-
     <p>
     Getting traffic to your website is not getting easier or cheaper. It is important to engage and convert as many visitors as possible to get the best return on your investment of time and money. Your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to improve your conversion rate. When you make the breakthrough the effect on your organisation is transformational.
     </p>
-        <h2>Get SetUp >>></h2>
   </div>
 </div>
 <div class="w3-row">
@@ -26,6 +25,9 @@ hero_image: >-
     <div class="w3-col l3"><h3>Experiment</h3> Try out new ideas against your current best</div>
   </div>
 </div>
+   <div class="w3-col l9">
+        <h2>Get SetUp >>></h2>
+  </div>
 <div class="w3-row">
    <div class="w3-col w3-right l9">
     <h2>Prepare your website for higher conversion</h2>
