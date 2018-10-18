@@ -25,8 +25,10 @@ hero_image: >-
     <div class="w3-col l3"><h3>Experiment</h3> Try out new ideas against your current best</div>
   </div>
 </div>
+<div class="w3-row w3-red w3-colored-background">
    <div class="w3-col l9">
         <h2>Get SetUp >>></h2>
+  </div>
   </div>
 <div class="w3-row">
    <div class="w3-col w3-right l9">
