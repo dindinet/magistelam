@@ -62,6 +62,11 @@ hero_image: >-
     <h3>You must collect the email address of as many website visitors as possible. It is much more cost effective to contact subuscribers than pay again to get them to your website</h3>
   </div>
 </div>
+<div class="w3-row w3-red w3-colored-background">
+   <div class="w3-col l12 w3-center">
+        <h2>Get SetUp >>></h2>
+  </div>
+  </div>
 <div class="w3-row w3-purple w3-colored-background">
    <div class="w3-col l9">
     <h2>Charts and Compass for Your Online Marketing.</h2>
