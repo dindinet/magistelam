@@ -370,6 +370,11 @@ a{text-decoration: none;}
 .w3-colored-background{color: var(--theme-color)}
 #landing h2{font-size: 2.4em;padding-top:30px;}
 #landing h3{font-size: 1.6em;}
+h2.buttony {
+  text-shadow: 0px -4px 0px rgba(32, 245, 227, 0.78);
+  font-size: 4em;
+  font-weight: 900;
+}
 .strands{margin-top: 30px;}
 .strands .w3-col h3{display: inline-block; position: relative; margin-bottom: 0;font-weight: 700;border: 1px solid cadetblue;}
 .strands .w3-col h3:before{

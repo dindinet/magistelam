@@ -27,7 +27,7 @@ hero_image: >-
 </div>
 <div class="w3-row w3-red w3-colored-background">
    <div class="w3-col l12 w3-center">
-        <h2>Get SetUp >>></h2>
+        <h2 class="buttony">Get SetUp >>></h2>
   </div>
   </div>
 <div class="w3-row">
@@ -64,7 +64,7 @@ hero_image: >-
 </div>
 <div class="w3-row w3-red w3-colored-background">
    <div class="w3-col l12 w3-center">
-        <h2>Get SetUp >>></h2>
+        <h2 class="buttony">Get SetUp >>></h2>
   </div>
   </div>
 <div class="w3-row w3-purple w3-colored-background">
