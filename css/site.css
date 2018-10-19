@@ -376,7 +376,7 @@ h2.buttony {
   font-weight: 900;
 }
 h2.buttony:hover {
-  text-shadow: 1px 0px 4px rgba(33, 150, 243, 0.78);
+  text-shadow: 4px 1px 0px rgba(33, 150, 243, 0.78);
 }
 .strands{margin-top: 30px;}
 .strands .w3-col h3{display: inline-block; position: relative; margin-bottom: 0;font-weight: 700;border: 1px solid cadetblue;}
