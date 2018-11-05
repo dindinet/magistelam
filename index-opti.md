@@ -34,7 +34,7 @@ hero_image: >-
    <div class="w3-col w3-right l9">
     <h2>Prepare your website for higher conversion</h2>
     <h3>Don't drive your visitors into the waiting arms of your competitors</h3>
-    <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your visitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly if your website is difficult to navigate or does not display optimally on visitors preferred devices they will bounce. Search angines do not reward high bounce rate.</p> 
+    <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your competitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly if your website is difficult to navigate or does not display optimally on visitors preferred devices they will bounce. Search engines do not reward high bounce rate.</p> 
   </div>
 </div>
 
@@ -47,13 +47,13 @@ hero_image: >-
 <div class="w3-row">
    <div class="w3-col w3-right l9">
     <h2>Set Up Testing Tool</h2>
-    <h3>A testing tool allows you to make changes to pages witout needing to involve your IT people</h3>
+    <h3>A testing tool allows you to test new ideas on your website witout needing to involve your IT people</h3>
   </div>
 </div>
 <div class="w3-row w3-green w3-colored-background">
    <div class="w3-col l9">
     <h2>Run Experiments</h2>
-    <h3>If you don't run experiments you will not be able to improve your conversion rate</h3>
+    <h3>If you run experiments you challenge the status quo and will uncover new ways to engage and convert your visitors</h3>
   </div>
 </div>
 <div class="w3-row">
