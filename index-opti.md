@@ -19,7 +19,7 @@ hero_image: >-
 </div>
 <div class="w3-row">
    <div class="w3-col l12 strands" >
-    <div class="w3-col l3"><h3>Tune</h3> Make it fast. Make it present well on all devices. Make it easy to use.</div>
+    <div class="w3-col l3"><h3>Tune</h3> Your webpages need to load fast present well on all devices and be engageing for your desired audience.</div>
     <div class="w3-col l3"><h3>Measure</h3> Be sure to collect all the right numbers. No Numbers</div>
     <div class="w3-col l3"><h3>Analyse</h3> Base your marketing decisions on real world numbers </div>
     <div class="w3-col l3"><h3>Experiment</h3> Try out new ideas against your current best</div>
