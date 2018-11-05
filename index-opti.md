@@ -48,7 +48,7 @@ hero_image: >-
 <div class="w3-row">
    <div class="w3-col w3-right l9">
     <h2>Set Up Testing Tool</h2>
-    <h3>A testing tool allows you to test new ideas on your website witout needing to involve your IT people</h3>
+    <h3>A testing tool allows you to test new ideas on your website without needing to involve your IT people</h3>
   </div>
 </div>
 <div class="w3-row w3-green w3-colored-background">
