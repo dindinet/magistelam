@@ -13,7 +13,8 @@ hero_image: >-
     <h2>Supercharge Your Website Marketing to Transform Your Organisation</h2>
     <h3>More customers / suscribers / donors </h3>
     <p>
-    Getting traffic to your website is not getting easier or cheaper. It is important to engage and convert as many visitors as possible to get the best return on your investment of time and money. Your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to improve your conversion rate. When you make the breakthrough the effect on your organisation is transformational.
+    Getting visitors to your website is not getting easier or cheaper. Luckily your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to improve your conversion rate.</p>
+    <p>When you make the breakthrough the effect on your organisation is transformational.
     </p>
   </div>
 </div>
