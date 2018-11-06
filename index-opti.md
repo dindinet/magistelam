@@ -18,6 +18,7 @@ hero_image: >-
     <p>When you make the breakthrough the effect on your organisation is transformational.</p>
   </div>
 </div>
+
 <div class="w3-row  charts w3-colored-background">
    <div class="w3-col l12 strands" >
     <div class="w3-col l3"><h3>Tune</h3> Your webpages need to load fast, present well on all devices and be engageing for your desired audience.</div>
@@ -26,11 +27,13 @@ hero_image: >-
     <div class="w3-col l3"><h3>Experiment</h3> Always be improving. Based on sound decisions try out new ideas against your current best. Go with the winners.</div>
   </div>
 </div>
+
 <!--<div class="w3-row w3-red w3-colored-background w3-display-container">
    <div class="w3-col l12">
         <h2 class="buttony w3-display-middle">Get SetUp &gt;&gt;&gt;</h2>
   </div>
   </div>-->
+  
 <div class="w3-row">
    <div class="w3-col l9">
     <h2>Tune your website for higher conversion</h2>
