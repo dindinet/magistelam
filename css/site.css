@@ -395,7 +395,7 @@ h2.buttony:hover {
 .strands{margin-top: 30px;}
 .strands .w3-col h3{display: inline-block; position: relative; margin-bottom: 0;font-weight: 700;border: 1px solid cadetblue;}
 .strands .w3-col h3:before{
-  background-color: #6FC0FF;
+  background-color: #6FC0FF!important;
   content: "";
   z-index: -1;
   width: calc(100% - .2rem);
