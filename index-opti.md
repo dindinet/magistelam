@@ -60,7 +60,7 @@ hero_image: >-
 <div class="w3-row">
    <div class="w3-col w3-right l9">
     <h2>Email Marketing</h2>
-    <h3>You must collect the email address of as many website visitors as possible. It is much more cost effective to contact subuscribers than pay again to get them to your website</h3>
+    <h3>It is much more cost effective to contact subscribers than pay again to get them to your website. Collect the email address of as many website visitors as possible and contact them regularly. </h3>
   </div>
 </div>
 <!-- <div class="w3-row w3-red w3-colored-background">
