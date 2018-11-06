@@ -20,4 +20,4 @@ When you invest time and budget into understanding the needs of your audience an
 
 ### The Need For Speed
 
-Some have referred to 2019 as the year of speed, and they are right. The need for speed is no longer something that businesses can ignore. Why? Slow-loading web pages cost you conversions, sales revenue, organic search rankings, and PPC ad quality score. With conversions and customers on the line, it is time to optimise your web pages.
+Some have referred to [2019 as the year of speed](https://unbounce.com/landing-pages/2019-is-the-year-of-page-speed/), and they are right. The need for speed is no longer something that businesses can ignore. Why? Slow-loading web pages cost you conversions, sales revenue, organic search rankings, and PPC ad quality score. With conversions and customers on the line, it is time to optimise your web pages.
