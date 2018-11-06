@@ -26,9 +26,9 @@ hero_image: >-
     <div class="w3-col l3"><h3>Experiment</h3> Always be improving. Based on sound decisions try out new ideas against your current best. Go with the winners.</div>
   </div>
 </div>
-<div class="w3-row w3-red w3-colored-background">
-   <div class="w3-col l12 w3-center">
-        <h2 class="buttony">Get SetUp >>></h2>
+<div class="w3-row w3-red w3-colored-background w3-display-container">
+   <div class="w3-col l12">
+        <h2 class="buttony w3-display-middle">Get SetUp &gt;&gt;&gt;</h2>
   </div>
   </div>
 <div class="w3-row">
