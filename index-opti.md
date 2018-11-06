@@ -74,32 +74,3 @@ hero_image: >-
     <h3>Find the more direct route to the Treasure</h3>
   </div>
 </div>
-
-
-### The We get You Started on the Road to Success Package
-* Measurement Tools Setup - Conversion Rate, Success Metrics, Benchmark and Set Targets - Google Analytics and Google Tag Manager setup
-* Website Testing/Experiments Tool Setup - Google Optimize
-* Visitor Recording Setup - Smartlook / Hotjar / FullStory
-* Email Marketing List Setup Mailchimp / MailerLite
-* CMS - Landing Page Builder CloudCannon / Forestry
-
-From £800
-
-### Most Popular - 12 Months Supported Master Mentoring to give you the powers
-
-* all of The We get You Started on the Road to Success Package
-
- plus
-
-* 12 1hr one to one Mentoring Sessions to keep you focused(£1200 value)
-* 6 Bi-monthly Pier Group Support Sessions
-* Email Support in working hours for one year
-* Highly Focused Inner Circle Email Newsletter for Life
-
-£1800
-
-Before you can start to optimise your website you need to be able to measure performance using analytics as well as using testing software to launch experiments of potential improvements.
-
-Setting up an analytics tool and learning how to use it is essential for anyone who is serious about optimising their website for better results. Without analytics and testing tools website optimisation is impossible.
-
-I recommend the use of Google Analytics and Google Optimize. These tools are free to use and as they are both from google they interate really well.
