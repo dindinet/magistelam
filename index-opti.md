@@ -18,7 +18,7 @@ hero_image: >-
     <p>When you make the breakthrough the effect on your organisation is transformational.</p>
   </div>
 </div>
-<div class="w3-row  w3-red w3-colored-background">
+<div class="w3-row  w3-red">
    <div class="w3-col l12 strands" >
     <div class="w3-col l3"><h3>Tune</h3> Your webpages need to load fast, present well on all devices and be engageing for your desired audience.</div>
     <div class="w3-col l3"><h3>Measure</h3> Be sure to collect useful data about web site visits. It is not possible to make sound decisions if you do not have accurate data.</div>
@@ -60,8 +60,8 @@ hero_image: >-
    <div class="w3-col l9">
     <h2>Run Experiments</h2>
     <h3></h3> 
-  </div> -->
-</div>
+  </div> 
+</div>-->
 <div class="w3-row  experiments w3-colored-background">
    <div class="w3-col l9   w3-right">
     <h2>Email Marketing</h2>
