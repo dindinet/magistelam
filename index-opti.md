@@ -33,7 +33,7 @@ hero_image: >-
         <h2 class="buttony w3-display-middle">Get SetUp &gt;&gt;&gt;</h2>
   </div>
   </div>-->
-  
+
 <div class="w3-row">
    <div class="w3-col l9">
     <h2>Tune your website for higher conversion</h2>
@@ -65,7 +65,7 @@ hero_image: >-
     <h3></h3> 
   </div> 
 </div>-->
-<div class="w3-row  experiments w3-colored-background">
+<div class="w3-row  email-marketing w3-colored-background">
    <div class="w3-col l9   w3-right">
     <h2>Email Marketing</h2>
     <h3>Don't throw away opportunity. Collect the email address of as many website visitors as possible and contact them regularly. </h3>
