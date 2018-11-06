@@ -16,6 +16,7 @@ hero_image: >-
     <p>
     Getting visitors to your website is not getting easier or cheaper. Luckily your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to improve your conversion rate.</p>
     <p>When you make the breakthrough the effect on your organisation is transformational.</p>
+    <p><a href="#">Learn more about improving your digital marketing</a></p>
   </div>
 </div>
 
@@ -39,7 +40,7 @@ hero_image: >-
     <h2>Tune your website for higher conversion</h2>
     <h3>Don't drive your visitors into the waiting arms of your competitors</h3>
     <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your competitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly if your website is difficult to navigate or does not display optimally on visitors preferred devices they will bounce. Search engines do not reward high bounce rate.</p> 
-    <p>Learn more about tuning your website and reducing visitor bounce(tune headers, footers, contact, faq to be always closing)</p>
+    <p><a href="#">Learn more about tuning your website and reducing visitor bounce</a>(tune headers, footers, contact, faq to be always closing)</p>
   </div>
 </div>
 
@@ -47,7 +48,7 @@ hero_image: >-
    <div class="w3-col l9  w3-right ">
     <h2>Set up Analytics to measure your success</h2>
     <h3>Without reliable numbers you will not know if your optimisation efforts are having the desired effect</h3>
-    <p>Learn more about integrating an analytics system with your website</p>
+    <p><a href="#">Learn more about integrating an analytics system with your website</a></p>
   </div>
 </div>
 <div class="w3-row">
@@ -55,7 +56,7 @@ hero_image: >-
     <h2>Set Up a Testing Tool and run Experiments</h2>
     <h3>A testing tool allows you to experiment with new ideas on your website without needing to involve your IT people</h3>
     <p>When you run experiments you challenge the status quo and will uncover new ways to grow your organisation</p>
-    <p>Learn more about integrating a testing system with your website</p>
+    <p><a href="#">Learn more about integrating a testing system with your website</a></p>
   </div>
 </div>
 <!--
@@ -70,7 +71,7 @@ hero_image: >-
     <h2>Email Marketing</h2>
     <h3>Don't throw away opportunity. Collect the email address of as many website visitors as possible and contact them regularly. </h3>
     <p>Expecting people to remember you and come back to your site is too risky. Paying to get them to come back again is too expensive.</p>
-    <p>Learn more about integrating email marketing with your website.</p>
+    <p><a href="#">Learn more about integrating email marketing with your website</a></p>
   </div>
 </div>
 <!-- <div class="w3-row w3-red w3-colored-background">
