@@ -380,7 +380,7 @@ background-size: cover;
 #landing .page-header p{font-size: 1.3em}
 #landing .analytics{background-color: #d7092b;color: white;}
 #landing .experiments{background-color: #d30e6b;color: white;}
-#landing .charts{background-color: #aa18aa;color: white;}
+#landing .charts{background-color:#2c105fd9;color: white;}
 h2.buttony {
   /*text-shadow: 1px 4px 0px rgba(33, 150, 243, 0.78);*/
   text-shadow: 4px 1px 0px rgba(33, 150, 243, 0.78);
