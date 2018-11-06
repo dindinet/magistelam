@@ -10,13 +10,12 @@ hero_image: >-
 ---
 
 <div class="w3-row w3-red w3-colored-background">
-   <div class="w3-col l9">
+   <div class="w3-col l9 page-header">
     <h2>Supercharge Your Website Marketing to Transform Your Organisation</h2>
     <h3>More customers / suscribers / donors </h3>
     <p>
     Getting visitors to your website is not getting easier or cheaper. Luckily your website can be improved to convert more visitors from the same traffic. If you pay for traffic then you should move heaven and earth to improve your conversion rate.</p>
-    <p>When you make the breakthrough the effect on your organisation is transformational.
-    </p>
+    <p>When you make the breakthrough the effect on your organisation is transformational.</p>
   </div>
 </div>
 <div class="w3-row">
