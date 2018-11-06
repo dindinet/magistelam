@@ -32,7 +32,7 @@ hero_image: >-
   </div>
   </div>-->
 <div class="w3-row">
-   <div class="w3-coll9">
+   <div class="w3-col l9">
     <h2>Tune your website for higher conversion</h2>
     <h3>Don't drive your visitors into the waiting arms of your competitors</h3>
     <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your competitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly if your website is difficult to navigate or does not display optimally on visitors preferred devices they will bounce. Search engines do not reward high bounce rate.</p> 
