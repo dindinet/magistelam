@@ -54,7 +54,7 @@ hero_image: >-
 <div class="w3-row experiments w3-colored-background">
    <div class="w3-col l9">
     <h2>Run Experiments</h2>
-    <h3>If you run experiments you challenge the status quo and will uncover new ways to engage and convert your visitors</h3>
+    <h3>If you run experiments you challenge the status quo and will uncover new ways to grow your organisation</h3>
   </div>
 </div>
 <div class="w3-row">
@@ -67,10 +67,10 @@ hero_image: >-
    <div class="w3-col l12 w3-center">
         <h2 class="buttony">Get SetUp >>></h2>
   </div>
-  </div> -->
+  </div> 
 <div class="w3-row charts w3-colored-background">
    <div class="w3-col l9">
     <h2>Charts and Compass for Your Online Marketing.</h2>
     <h3>Find the more direct route to the Treasure</h3>
   </div>
-</div>
+</div>-->
