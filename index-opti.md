@@ -47,20 +47,25 @@ hero_image: >-
 </div>
 <div class="w3-row">
    <div class="w3-col w3-right l9">
-    <h2>Set Up Testing Tool</h2>
-    <h3>A testing tool allows you to test new ideas on your website without needing to involve your IT people</h3>
+    <h2>Set Up Testing Tool and run Experiments</h2>
+    <h3>A testing tool allows you to experiment with new ideas on your website without needing to involve your IT people</h3>
+    <p>When you run experiments you challenge the status quo and will uncover new ways to grow your organisation</p>
+    <p>Learn more about integrating a testing system with your website</p>
   </div>
 </div>
+<!--
 <div class="w3-row experiments w3-colored-background">
    <div class="w3-col l9">
     <h2>Run Experiments</h2>
-    <h3>If you run experiments you challenge the status quo and will uncover new ways to grow your organisation</h3>
-  </div>
+    <h3></h3> 
+  </div> -->
 </div>
-<div class="w3-row">
-   <div class="w3-col w3-right l9">
+<div class="w3-row  experiments w3-colored-background">
+   <div class="w3-coll9">
     <h2>Email Marketing</h2>
-    <h3>It is much more cost effective to contact subscribers than pay again to get them to your website. Collect the email address of as many website visitors as possible and contact them regularly. </h3>
+    <h3>Don't throw away opportunity. Collect the email address of as many website visitors as possible and contact them regularly. </h3>
+    <p>Expecting people to remember you and come back to your site is too risky. Paying to get them to come back again is too expensive.</p>
+    <p>Learn more about integrating email marketing with your website.</p>
   </div>
 </div>
 <!-- <div class="w3-row w3-red w3-colored-background">
