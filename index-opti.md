@@ -26,28 +26,30 @@ hero_image: >-
     <div class="w3-col l3"><h3>Experiment</h3> Always be improving. Based on sound decisions try out new ideas against your current best. Go with the winners.</div>
   </div>
 </div>
-<div class="w3-row w3-red w3-colored-background w3-display-container">
+<!--<div class="w3-row w3-red w3-colored-background w3-display-container">
    <div class="w3-col l12">
         <h2 class="buttony w3-display-middle">Get SetUp &gt;&gt;&gt;</h2>
   </div>
-  </div>
+  </div>-->
 <div class="w3-row">
-   <div class="w3-col w3-right l9">
+   <div class="w3-coll9">
     <h2>Prepare your website for higher conversion</h2>
     <h3>Don't drive your visitors into the waiting arms of your competitors</h3>
     <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your competitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly if your website is difficult to navigate or does not display optimally on visitors preferred devices they will bounce. Search engines do not reward high bounce rate.</p> 
+    <p>Learn more about tuning your website and reducing visitor bounce(tune headers, footers, contact, faq to be always closing)</p>
   </div>
 </div>
 
 <div class="w3-row analytics w3-colored-background">
-   <div class="w3-col l9">
+   <div class="w3-col l9  w3-right ">
     <h2>Set up Analytics to measure your success</h2>
     <h3>Without reliable numbers you will not know if your optimisation efforts are having the desired effect</h3>
+    <p>Learn more about integrating an analytics system with your website</p>
   </div>
 </div>
 <div class="w3-row">
-   <div class="w3-col w3-right l9">
-    <h2>Set Up Testing Tool and run Experiments</h2>
+   <div class="w3-col l9">
+    <h2>Set Up a Testing Tool and run Experiments</h2>
     <h3>A testing tool allows you to experiment with new ideas on your website without needing to involve your IT people</h3>
     <p>When you run experiments you challenge the status quo and will uncover new ways to grow your organisation</p>
     <p>Learn more about integrating a testing system with your website</p>
