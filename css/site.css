@@ -1,6 +1,6 @@
 :root {
   --theme-color:#fff;
-  --theme-highlight:#2196F3;
+  --theme-highlight:#f44336;
   --lingrad-start:#fff;
   --lingrad-mid:#fff;
   --lingrad-end:#fff;
@@ -356,7 +356,7 @@ body, html {
     font-family: var(--body-fonts);
     
 }
-body{margin-top:74px;}
+body{margin-top:58px;}
 a{text-decoration: none;}
 .link:hover{text-decoration: underline;}
 .theme-highlight{color: var(--theme-highlight);}
