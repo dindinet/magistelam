@@ -39,7 +39,7 @@ hero_image: >-
   </div>
 </div>
 
-<div class="w3-row w3-teal w3-colored-background">
+<div class="w3-row analytics w3-colored-background">
    <div class="w3-col l9">
     <h2>Set up Analytics to measure your success</h2>
     <h3>Without reliable numbers you will not know if your optimisation efforts are having the desired effect</h3>
@@ -51,7 +51,7 @@ hero_image: >-
     <h3>A testing tool allows you to test new ideas on your website without needing to involve your IT people</h3>
   </div>
 </div>
-<div class="w3-row w3-green w3-colored-background">
+<div class="w3-row experiments w3-colored-background">
    <div class="w3-col l9">
     <h2>Run Experiments</h2>
     <h3>If you run experiments you challenge the status quo and will uncover new ways to engage and convert your visitors</h3>
@@ -68,7 +68,7 @@ hero_image: >-
         <h2 class="buttony">Get SetUp >>></h2>
   </div>
   </div>
-<div class="w3-row w3-purple w3-colored-background">
+<div class="w3-row charts w3-colored-background">
    <div class="w3-col l9">
     <h2>Charts and Compass for Your Online Marketing.</h2>
     <h3>Find the more direct route to the Treasure</h3>
