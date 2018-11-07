@@ -22,7 +22,7 @@ hero_image: >-
 
 <div class="w3-row  charts w3-colored-background">
    <div class="w3-col l12 strands" >
-    <div class="w3-col l3"><h3>Tune</h3> Your webpages need to load fast, present well on all devices and be engageing for your desired audience.</div>
+    <div class="w3-col l3"><h3>Tune</h3> Your webpages need to load fast, present well on all devices and engage your desired audience.</div>
     <!--<div class="w3-col l3"><h3>Measure</h3> Be sure to collect useful data about web site visits. It is not possible to make sound decisions if you do not have accurate data.</div>-->
     <div class="w3-col l3"><h3>Analyse</h3> Base your marketing decisions on real world numbers. Know for sure what is working and what is undermining your success. </div>
     <div class="w3-col l3"><h3>Experiment</h3> Always be improving. Try out new ideas against your current best and grow with the winners.</div>
@@ -40,7 +40,7 @@ hero_image: >-
    <div class="w3-col l9">
     <h2>Tune your website for higher conversion</h2>
     <h3>Don't drive your visitors into the waiting arms of your competitors</h3>
-    <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your competitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly if your website is difficult to navigate or does not display optimally on visitors preferred devices they will bounce. Search engines do not reward high bounce rate.</p> 
+    <p>If your website is slow to load or does not display well on all screen sizes, especially smart phones,  you need to make some changes. People dislike slow loading websites. If you make people wait they will abandon their visit and probably go directly to one of your competitors. Search engines want to serve the best possible results to their visitors. Search engines do not favour slow loading sites. Equaly, if your website is difficult to navigate or does not display optimally on visitors preferred devices, they will bounce. Search engines do not reward high bounce rate.</p> 
     <p><a href="#">Learn more about tuning your website and reducing visitor bounce</a>(tune headers, footers, contact, faq to be always closing)</p>
   </div>
 </div>
