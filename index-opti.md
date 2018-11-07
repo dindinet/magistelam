@@ -49,7 +49,7 @@ hero_image: >-
    <div class="w3-col l9  w3-right ">
     <h2>Set up Analytics to measure your success</h2>
     <h3>Without reliable numbers you will not know if your optimisation efforts are having the desired effect</h3>
-    <p>Know which sources are sending the most valuable visitors and where the timewasters are coming from. See which content is generating the most interest. Find out what visitors are doing on your web pages and what is causing them to bounce.</p>
+    <p>Know which sources are sending the most valuable visitors and where the timewasters are coming from. See which content is generating the most interest. Find out what visitors are doing on your web pages and what might be causing them to bounce.</p>
     <p><a href="#">Learn more about integrating an analytics system with your website</a></p>
   </div>
 </div>
