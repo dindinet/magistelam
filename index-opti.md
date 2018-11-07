@@ -1,6 +1,6 @@
 ---
 title: Websites for growth
-permalink: /opti/
+permalink: /
 description: >-
   Only by steady continuous improvement can you grow and sustain your
   organisation
