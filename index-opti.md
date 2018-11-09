@@ -57,6 +57,7 @@ hero_image: >-
    <div class="w3-col l9">
     <h2>Set Up a Testing Tool and run Experiments</h2>
     <h3>A testing tool allows you to experiment with new ideas on your website without needing to involve your IT people</h3>
+    <p> Instead of relying on instinct and opinion to determine the best page or site design, you can run an experiment that tests alternate designs with real-world users and get results that are simple to read and understand.</p>
     <p>When you run experiments you challenge the status quo and will uncover new ways to grow your organisation</p>
     <p><a href="#">Learn more about integrating a testing system with your website</a></p>
   </div>
