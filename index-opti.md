@@ -23,7 +23,7 @@ hero_image: >-
 <div class="w3-row  charts w3-colored-background">
    <div class="w3-col l12 strands" >
     <div class="w3-col l3"><h3>Tune</h3> <br/>
-    Load fast and be relevant, 
+    LYour viitors expect your website to load fast and be relevant. 
     Optimise for all devices. 
     Your competitors are a click away.</div>
     <!--<div class="w3-col l3"><h3>Measure</h3> Be sure to collect useful data about web site visits. It is not possible to make sound decisions if you do not have accurate data.</div>-->
