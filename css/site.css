@@ -365,6 +365,13 @@ a{text-decoration: none;}
 #main h2{color: var(--theme-color);font-size: 2.4em;margin-top: 160px;}
 #main h3{color: var(--theme-color);font-size: 1.6em;}
 #main .door h3, #main .smalldoor h3{color: var(--theme-highlight);font-size: 1.2em;}
+.section{min-height: 400px;padding: 100px 100px;width: 100%;}
+.section.website-tuning, .section.website-testing{background-color: #2c105fd9;}
+.section.website-analytics{background-color: #a20923;}
+.section.email-marketing{background-color: #ac0a57;}
+.section h2 {font-size: 1.8em;font-weight:700;}
+.section h3 {font-size: 1.3em;font-weight:400;}
+.w3-col.l12{padding: 0px 40px 60px 40px;}
 #landing .w3-row{width: 100%;}
 #landing .w3-red{
 min-height: 800px;
