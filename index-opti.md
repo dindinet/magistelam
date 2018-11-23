@@ -1,5 +1,5 @@
 ---
-title: Websites for Groovy growth
+title: Websites for growth
 permalink: /
 description: >-
   Only by steady continuous improvement can you grow and sustain your
