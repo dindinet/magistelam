@@ -16,3 +16,12 @@ hero_image: >-
 ### Conversions - See How Visitors Are Converting
 
 Without reliable numbers you will not know if your optimisation efforts are having the desired effect
+
+With a correectly installed analytics setup you will be able to
+- Increase online sales and repeat buyers
+- Lower the cost for user acquisition and conversions
+- Improve customer engagement and get more conversions
+- Tie information from multiple data sources with your analytics data
+- Understand how different users interact with your sites and apps
+- Understand how users change their behavior over time
+- Engage with specific users more effectively
