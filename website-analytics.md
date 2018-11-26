@@ -17,7 +17,7 @@ hero_image: >-
 
 Without reliable numbers you will not know if your optimisation efforts are having the desired effect
 
-With a correectly installed analytics setup you will be able to
+A correctly installed analytics setup will help you with goals like:
 - Increase online sales and repeat buyers
 - Lower the cost for user acquisition and conversions
 - Improve customer engagement and get more conversions
